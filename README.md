@@ -1,5 +1,7 @@
 # Build-RAGAI
 
+![Monty Python](https://cdn.dribbble.com/users/1523313/screenshots/16134521/media/3975730626bdae63cf9b25d3b634bac3.gif)
+
 ## Description
 This project seeks to teach you how to build Python applications with generative AI functionality by using the LangChain and Transformers libraries.
 
